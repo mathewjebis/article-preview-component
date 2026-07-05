@@ -167,7 +167,7 @@ body {
   }
   .card-image-wrapper {
     width: 40%;
-    height: 17.5rem;
+    height: auto;
   }
   .card-image {
     border-radius: 0.625rem 0 0 0.625rem;
